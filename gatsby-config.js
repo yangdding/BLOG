@@ -7,7 +7,6 @@ module.exports = {
       title: "양진영의 블로그",
       description: "개발자 양진영의 기술 블로그",
       author: "Yang Jin Young",
-      siteUrl: "https://yangdding.vercel.app", 
     // ...plugins 등등
       },
   plugins: [
