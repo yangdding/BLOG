@@ -1,55 +1,54 @@
 ---
-title: "This is about page ✋"
+title: "About Me"
 ---
 
-## English Guide
+## 🙋‍♂️ 안녕하세요! 양진영입니다.
 
-Hello! This section is dedicated to introducing your blog. Here, you can showcase various information to your visitors, such as a blog introduction, personal profile, resume, portfolio, and more.
+> 새로운 도전은 제 에너지가 가속되는 원동력입니다.
 
-### Writing Guide
+불가능한 것은 없다고 믿으며, 그 경계를 끊임없이 밀어 나가고자 합니다.  
+**협업**은 제 큰 키워드입니다. 다양한 사람들과 함께하며, 그 과정에서 느끼는 서로의 에너지와 아이디어의 합성은 매번 새로운 경험과 발견을 가져다줍니다. 이러한 철학 아래, 더 큰 무대로 나아가고 싶습니다.
 
-To edit this page, modify the `/contents/about/index.md` file. You can write it in the same way as any other post. The path to this file cannot be changed.
+---
+### 📚 학력
 
-The Markdown document for the About page only contains a single frontmatter called `title`. The `title` frontmatter will be displayed as the title at the top of the About page.
+- 🏫 **장성고등학교** (2022.03 ~ 2024.01)
+- 🎓 **고려대학교** (2025.03 ~ 현재)
 
-### Disabling the About Page
+---
 
-```json
-module.exports = {
+### 🎯 Project
 
-  // ...
+- 🚀 **풀스택 개발자를 향한 끊임없는 도전**  
+  다양한 프로젝트와 경진대회에서의 성과를 통해 풀스택 개발자로서의 역량을 지속적으로 키우고 있습니다.
 
-  useAbout: false, // 👈
+- 💻 **다양한 프로그래밍 언어에 대한 능숙성**  
+  Python, JavaScript, C 등을 포함한 다양한 언어에 대한 이해와 능숙한 활용 능력을 보유하고 있습니다.
 
-  // ...
+- 🤝 **도전과 협업에 대한 열정**  
+  새로운 도전을 즐기며, 다양한 팀원들과 협업을 통해 시너지를 불러일으켜 뛰어난 결과물을 만들어내고 있습니다.
 
-}
-```
+---
 
-You can disable the About page by setting the `useAbout` value to false in the `blog-config.js` file. If disabled, the tab in the blog header will be hidden, and visitors will not be able to access this page via the `/about` URL.
+### 🛠️ 주요 프로젝트
 
-## 한국어 가이드
+#### PROJECT 01. **AI 인재양성 프로젝트**
+> 다양한 AI 교육 프로젝트를 수행하며 인공지능 분야에 대한 실질적인 경험을 쌓았습니다.
 
-안녕하세요. 이 곳은 블로그를 소개하기 위한 공간입니다. 블로그 또는 자신에 대한 소개부터 이력서, 포트폴리오 등 다양한 정보를 이곳에서 방문자들에게 보여줄 수 있습니다.
+#### PROJECT 02. **SW 융합 해커톤 (AI)**
+> 소프트웨어와 인공지능을 융합한 해커톤에서 실전 문제 해결력을 입증했습니다.
 
-### 작성 가이드
+#### PROJECT 03. **DACON 태양광 발전량 예측 AI 경진대회**
+> 기후 및 에너지 데이터를 분석해 발전량을 예측하는 AI 모델을 개발했습니다.
 
-이 페이지를 편집하려면, `/contents/about/index.md` 파일을 수정하면 됩니다. 다른 포스팅을 작성하는 것과 동일한 방식으로 작성할 수 있습니다. 이 파일의 경로는 변경할 수 없습니다.
+#### PROJECT 04. **교내 라즈베리파이를 이용한 전자 달력 설치**
+> 하드웨어와 소프트웨어를 연동한 IoT 프로젝트로, 라즈베리파이를 활용한 전자 시스템을 설치했습니다.
 
-About 페이지의 마크다운 문서는 오직 `title` 이라는 하나의 frontmatter 만 가지고 있습니다. `title` frontmatter 는 About 페이지 상단 제목으로 표시됩니다.
+#### PROJECT 05. **특허 출원**
+> 실제 특허 출원 경험이 있으며, 아이디어를 구현하고 권리화하는 전 과정을 경험했습니다.
 
-### 비활성화
+#### PROJECT 06. **빙하의 감소추세 데이터 분석**
+> 기후 변화 관련 데이터를 분석하고, 인사이트를 도출하는 프로젝트를 진행했습니다.
 
-```json
-module.exports = {
+---
 
-  // ...
-
-  useAbout: false, // 👈
-
-  // ...
-
-}
-```
-
-`blog-config.js` 파일의 `useAbout` 값을 `false` 로 설정하여 About 페이지를 비활성화 할 수 있습니다. 비활성화 된다면, 블로그 상단에 존재하는 탭이 숨겨지고, `/about` 경로로 이 페이지에 접속할 수도 없게 됩니다.

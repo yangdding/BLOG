@@ -1,32 +1,21 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "yd1ng",
+  description: "양진영",
+  author: "YANG JIN YEONG",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    twitter: "https://twitter.com",
-    x: "https://x.com",
-    instagram: "https://www.instagram.com",
-    medium: "https://medium.com",
-    blogger: "https://blogger.com",
-    email: "mailto:devhudi@gmail.com",
-    resume: "https://hudi.blog",
-    link: "https://hudi.blog",
+    github: "https://github.com/yangdding",
+    email: "wlsdud060905@naver.com",
   },
   useAbout: true,
-  // See https://giscus.app/
   giscus: {
-    repo: "devHudi/gatsby-starter-hoodie",
-    repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
+    repo: "yd1ng/my-blog", // 예시 저장소
+    repoId: "R_kgDOF12345", // 실제 repoId로 대체
     category: "Comments",
-    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    categoryId: "DIC_kwDOF12345", // 실제 categoryId로 대체
     mapping: "pathname",
     strict: "0",
     reactionsEnabled: "1",
     inputPosition: "bottom",
-    lang: "en",
+    lang: "ko",
   },
 }
