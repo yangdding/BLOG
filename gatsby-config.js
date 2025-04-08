@@ -7,7 +7,7 @@ module.exports = {
       title: "양진영의 블로그",
       description: "개발자 양진영의 기술 블로그",
       author: "Yang Jin Young",
-      siteUrlhttps:"https://blog-git-master-yd1ngs-projects.vercel.app/",
+      siteUrl:"https://blog-git-master-yd1ngs-projects.vercel.app/",
       },
   plugins: [
     `gatsby-plugin-catch-links`,
