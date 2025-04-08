@@ -2,13 +2,16 @@ const blogConfig = require("./blog-config")
 const { title, description, author, siteUrl } = blogConfig
 
 module.exports = {
-  pathPrefix: "/gatsby-starter-hoodie",
-  siteMetadata: {
-    title,
-    description,
-    author,
-    siteUrl,
-  },
+      pathPrefix: "/gatsby-starter-hoodie",
+      siteMetadata: {
+      title: "양진영의 블로그",
+      description: "개발자 양진영의 기술 블로그",
+      author: "Yang Jin Young",
+      siteUrl: "https://yangdding.vercel.app", 
+    // ...plugins 등등
+      },
+  }
+  
   plugins: [
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-robots-txt`,
