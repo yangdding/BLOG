@@ -1,6 +1,6 @@
 이 프로젝트는 [벨로그](https://velog.io)에서 영감을 얻었습니다.
 
-## [라이브 데모](https://gatsby-starter-hoodie.netlify.app)
+---
 
 ## 주요 기능
 
