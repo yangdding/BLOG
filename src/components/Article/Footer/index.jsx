@@ -5,7 +5,6 @@ import { BiLeftArrowAlt, BiRightArrowAlt } from "react-icons/bi"
 
 import Divider from "components/Divider"
 import Bio from "components/Bio"
-import Comment from "./Comment"
 
 const ArticleButtonContainer = styled.div`
   display: flex;
@@ -141,12 +140,8 @@ const Footer = ({ previous, next }) => {
       </ArticleButtonContainer>
 
       <Bio />
-      <CommentWrapper>
-        <Divider mt="32px" />
+      </>
 
-        <Comment />
-      </CommentWrapper>
-    </>
   )
 }
 

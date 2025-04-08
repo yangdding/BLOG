@@ -6,7 +6,6 @@ import SEO from "components/SEO"
 import Bio from "components/Bio"
 import VerticalSpace from "components/VerticalSpace"
 import Article from "components/Article"
-import Comment from "components/Article/Footer/Comment"
 import Tab from "components/Tab"
 
 import NotFoundPage from "pages/404"
