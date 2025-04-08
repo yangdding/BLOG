@@ -3,7 +3,7 @@ module.exports = {
   description: "양진영",
   author: "YANG JIN YEONG",
   links: {
-    github: "https://github.com/YangJinYeong0905",
+    github: "https://github.com/yangdding/",
     email: "mailto:wlsdud060905@naver.com",
   },
   useAbout: true,
