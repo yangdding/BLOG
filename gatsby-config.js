@@ -10,7 +10,6 @@ module.exports = {
       siteUrl: "https://yangdding.vercel.app", 
     // ...plugins 등등
       },
-  },
   plugins: [
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-robots-txt`,
