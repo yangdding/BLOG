@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yd1ng.me/sitemap.xml
+Sitemap: https://yd1ng.me/sitemap-index.xml
