@@ -1,3 +1,12 @@
+---
+title: "웹해킹 1주차"
+description:
+date: 2025-05-08
+update: 2021-05-08
+tags:
+  - 웹해킹
+series: "웹해킹킹"
+---
 # 🌱 Dreamhack 새싹 문제 풀이 & 웹 해킹 로드맵 학습 정리
 
 요즘 웹 해킹 공부를 본격적으로 시작하면서 Dreamhack이라는 플랫폼을 활용하고 있어요.  
